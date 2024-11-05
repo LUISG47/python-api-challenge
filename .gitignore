@@ -1,2 +1,6 @@
+WeatherPy/api_keys.py
+VacationPy/api_keys.py
 api_keys.py
+__pycache__
+.DS_Store
 __pycache__
